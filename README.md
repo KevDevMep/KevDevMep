@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1>Mapper & Engineer & Cinephile</h1>
+<p>Programming Languages: C++, Python, Kotlin, Java</p>
+<p>Courses:</p>
+<img src="https://github.com/KevDevMep/KevDevMep/blob/main/Screenshot%202026-01-04%20at%2011-09-47%20My%20learning%20CodeSignal%20Learn.png"/>
+<img src="https://github.com/KevDevMep/KevDevMep/blob/main/Screenshot%202026-01-04%20at%2011-10-12%20My%20learning%20CodeSignal%20Learn.png"/>
+<img src="https://github.com/KevDevMep/KevDevMep/blob/main/Screenshot%202026-01-04%20at%2011-10-31%20My%20learning%20CodeSignal%20Learn.png"/>
 
 <!--
 **KevDevMep/KevDevMep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
