@@ -1,5 +1,4 @@
 <h1>Mapper & Engineer & Cinephile</h1>
-<p>Programming Languages: C++, Python, Kotlin, Java</p>
 
 <!--
 **KevDevMep/KevDevMep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
